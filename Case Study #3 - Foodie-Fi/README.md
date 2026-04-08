@@ -24,12 +24,10 @@ Danny and his friends launched a new startup called "Food-Fi" in 2020 and starte
 ---
 ## ❓ Case Study Questions
 ### A. Customer Journey
-View my solution [HERE](https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/Solution/A.%20Customer%20Journey.md).
 * Based off the 8 sample customers provided in the sample from the subscriptions table, write a brief description about each customer’s onboarding journey.
 
 ---
 ### B. Data Analysis Questions
-View my solution [HERE](https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/Solution/B.%20Data%20Analysis%20Questions.md).
 
 1. How many customers has Foodie-Fi ever had?
 2. What is the monthly distribution of trial plan start_date values for our dataset - use the start of the month as the group by value
@@ -45,7 +43,6 @@ View my solution [HERE](https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/ma
 
 ---
 ### C. Challenge Payment Question
-View my solution [HERE](https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/Solution/C.%20Challenge%20Payment%20Question.md).
 
 The Foodie-Fi team wants to create a new payments table for the year 2020 that includes amounts paid by each customer in the subscriptions table with the following requirements:
   * monthly payments always occur on the same day of month as the original start_date of any monthly paid plan
@@ -55,7 +52,6 @@ The Foodie-Fi team wants to create a new payments table for the year 2020 that i
 
 ---
 ### D. Outside The Box Questions 
-View my solution [HERE](https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/Solution/D.%20Outside%20The%20Box%20Questions.md).
 
 1. How would you calculate the rate of growth for Foodie-Fi?
 2. What key metrics would you recommend Foodie-Fi management to track over time to assess performance of their overall business?

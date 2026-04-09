@@ -1,12 +1,12 @@
 # 🐟 Case Study #6 - Clique Bait
 <p align="center">
-<img src="https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/main/IMG/6.png" align="center" width="400" height="400" >
+<img src="https://github.com/Noalt69/SQL-Challengeblob/main/IMG/6.png" align="center" width="400" height="400" >
 
 ## 📕 Table of Contents
-* [Bussiness Task](https://github.com/qanhnn12/8-Week-SQL-Challenge/tree/main/Case%20Study%20%236%20-%20Clique%20Bait#%EF%B8%8F-bussiness-task)
-* [Entity Relationship Diagram](https://github.com/qanhnn12/8-Week-SQL-Challenge/tree/main/Case%20Study%20%236%20-%20Clique%20Bait#-entity-relationship-diagram)
-* [Case Study Questions](https://github.com/qanhnn12/8-Week-SQL-Challenge/tree/main/Case%20Study%20%236%20-%20Clique%20Bait#-case-study-questions)
-* [My Solution](https://github.com/qanhnn12/8-Week-SQL-Challenge/tree/main/Case%20Study%20%236%20-%20Clique%20Bait#-my-solution)
+* [Bussiness Task](https://github.com/Noalt69/SQL-Challengetree/main/Case%20Study%20%236%20-%20Clique%20Bait#%EF%B8%8F-bussiness-task)
+* [Entity Relationship Diagram](https://github.com/Noalt69/SQL-Challengetree/main/Case%20Study%20%236%20-%20Clique%20Bait#-entity-relationship-diagram)
+* [Case Study Questions](https://github.com/Noalt69/SQL-Challengetree/main/Case%20Study%20%236%20-%20Clique%20Bait#-case-study-questions)
+* [My Solution](https://github.com/qanhnn12/SQL-Challenge/tree/main/Case%20Study%20%236%20-%20Clique%20Bait#-my-solution)
 
 ---
 ## 🛠️ Bussiness Task
@@ -19,12 +19,12 @@ In this case study - you are required to support Danny’s vision and analyse hi
 ---
 ## 🔐 Entity Relationship Diagram
 <p align="center">
-<img src="https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/main/IMG/e6.PNG" align="center ="800" height="400"">
+<img src="https://github.com/Noalt69/SQL-Challengeblob/main/IMG/e6.PNG" align="center ="800" height="400"">
 
 ---
 ## ❓ Case Study Questions
 ### A. Digital Analysis
-View my solution [HERE](https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/main/Case%20Study%20%236%20-%20Clique%20Bait/Solution/A.%20Digital%20Analysis.md).
+View my solution [HERE](https://github.com/Noalt69/SQL-Challengeblob/main/Case%20Study%20%236%20-%20Clique%20Bait/Solution/A.%20Digital%20Analysis.md).
 
 Using the available datasets - answer the following questions using a single query for each one:
 1. How many users are there?
@@ -39,7 +39,7 @@ Using the available datasets - answer the following questions using a single que
 
 ---
 ### B. Product Funnel Analysis
-View my solution [HERE](https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/main/Case%20Study%20%236%20-%20Clique%20Bait/Solution/B.%20Product%20Funnel%20Analysis.md).
+View my solution [HERE](https://github.com/Noalt69/SQL-Challengeblob/main/Case%20Study%20%236%20-%20Clique%20Bait/Solution/B.%20Product%20Funnel%20Analysis.md).
 
 Using a single SQL query - create a new output table which has the following details:
   * How many times was each product viewed?
@@ -58,7 +58,7 @@ Use your 2 new output tables - answer the following questions:
 
 ---
 ### C. Campaigns Analysis
-View my solution [HERE](https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/main/Case%20Study%20%236%20-%20Clique%20Bait/Solution/C.%20Campaigns%20Analysis.md).
+View my solution [HERE](https://github.com/Noalt69/SQL-Challengeblob/main/Case%20Study%20%236%20-%20Clique%20Bait/Solution/C.%20Campaigns%20Analysis.md).
 
 Generate a table that has 1 single row for every unique visit_id record and has the following columns:
   * `user_id`
@@ -83,5 +83,5 @@ users who do not receive an impression? What if we compare them with users who h
   
 ---
 ## 🚀 My Solution
-* View the complete syntax [HERE](https://github.com/qanhnn12/8-Week-SQL-Challenge/tree/main/Case%20Study%20%236%20-%20Clique%20Bait/Syntax).
-* View the result and explanation [HERE](https://github.com/qanhnn12/8-Week-SQL-Challenge/tree/main/Case%20Study%20%236%20-%20Clique%20Bait/Solution).
+* View the complete syntax [HERE](https://github.com/Noalt69/SQL-Challengetree/main/Case%20Study%20%236%20-%20Clique%20Bait/Syntax).
+* View the result and explanation [HERE](https://github.com/Noalt69/SQL-Challengetree/main/Case%20Study%20%236%20-%20Clique%20Bait/Solution).

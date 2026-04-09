@@ -6,7 +6,6 @@
 * [Bussiness Task](https://github.com/qanhnn12/8-Week-SQL-Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi#%EF%B8%8F-bussiness-task)
 * [Entity Relationship Diagram](https://github.com/qanhnn12/8-Week-SQL-Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi#-entity-relationship-diagram)
 * [Case Study Questions](https://github.com/qanhnn12/8-Week-SQL-Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi#-case-study-questions)
-* [My Solution](https://github.com/qanhnn12/8-Week-SQL-Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi#-my-solution)
 
 ---
 ## 🛠️ Bussiness Task
@@ -61,5 +60,5 @@ The Foodie-Fi team wants to create a new payments table for the year 2020 that i
 
 ---
 ## 🚀 My Solution
-* View the complete syntax [HERE](https://github.com/qanhnn12/8-Week-SQL-Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi/Syntax).
-* View the result and explanation [HERE](https://github.com/qanhnn12/8-Week-SQL-Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi/Solution).
+* View the complete syntax [HERE](https://github.com/Noalt69/SQL-Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi/Syntax).
+* View the result and explanation [HERE](https://github.com/Noalt69/SQL-Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi/Solution).

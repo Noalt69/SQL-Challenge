@@ -3,10 +3,10 @@
 <img src="https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/main/IMG/4.png" align="center" width="400" height="400" >
 
 ## 📕 Table of Contents
-* [Bussiness Task](https://github.com/qanhnn12/8-Week-SQL-Challenge/tree/main/Case%20Study%20%234%20-%20Data%20Bank#%EF%B8%8F-bussiness-task)
-* [Entity Relationship Diagram](https://github.com/qanhnn12/8-Week-SQL-Challenge/tree/main/Case%20Study%20%234%20-%20Data%20Bank#-entity-relationship-diagram)
-* [Case Study Questions](https://github.com/qanhnn12/8-Week-SQL-Challenge/tree/main/Case%20Study%20%234%20-%20Data%20Bank#-case-study-questions)
-* [My Solution](https://github.com/qanhnn12/8-Week-SQL-Challenge/tree/main/Case%20Study%20%234%20-%20Data%20Bank#-my-solution)
+* [Bussiness Task](https://github.com/Noalt69/SQL-Challenge/tree/main/Case%20Study%20%234%20-%20Data%20Bank#%EF%B8%8F-bussiness-task)
+* [Entity Relationship Diagram](https://github.com/Noalt69/SQL-Challenge/tree/main/Case%20Study%20%234%20-%20Data%20Bank#-entity-relationship-diagram)
+* [Case Study Questions](https://github.com/Noalt69/SQL-Challenge/tree/main/Case%20Study%20%234%20-%20Data%20Bank#-case-study-questions)
+* [My Solution](https://github.com/Noalt69/SQL-Challenge/tree/main/Case%20Study%20%234%20-%20Data%20Bank#-my-solution)
 
 ---
 ## 🛠️ Bussiness Task
@@ -24,7 +24,7 @@ This case study is all about calculating metrics, growth and helping the busines
 ---
 ## ❓ Case Study Questions
 ### A. Customer Nodes Exploration
-View my solution [HERE](https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank/Solution/A.%20Customer%20Nodes%20Exploration.md).
+View my solution [HERE](https://github.com/Noalt69/SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank/Solution/A.%20Customer%20Nodes%20Exploration.md).
 
 1. How many unique nodes are there on the Data Bank system?
 2. What is the number of nodes per region?
@@ -34,7 +34,7 @@ View my solution [HERE](https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/ma
 
 ---
 ### B. Customer Transactions
-View my solution [HERE](https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank/Solution/B.%20Customer%20Transactions.md).
+View my solution [HERE](https://github.com/Noalt69/SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank/Solution/B.%20Customer%20Transactions.md).
 
 1. What is the unique count and total amount for each transaction type?
 2. What is the average total historical deposit counts and amounts for all customers?
@@ -44,5 +44,5 @@ View my solution [HERE](https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/ma
 
 ---
 ## 🚀 My Solution
-  * View the complete syntax [HERE](https://github.com/qanhnn12/8-Week-SQL-Challenge/tree/main/Case%20Study%20%234%20-%20Data%20Bank/Syntax).
+  * View the complete syntax [HERE](https://github.com/Noalt69/SQL-Challenge/tree/main/Case%20Study%20%234%20-%20Data%20Bank/Syntax).
   * View the result and explanation [HERE](https://github.com/qanhnn12/8-Week-SQL-Challenge/tree/main/Case%20Study%20%234%20-%20Data%20Bank/Solution).
